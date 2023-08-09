@@ -46,8 +46,6 @@ td {
   border-collapse: collapse;
   text-align: center;
   white-space: nowrap;
-  padding-top: 2px;
-  padding-down: 2px;
 }
 td.empty {
   border: 1px #ffffff;
@@ -58,13 +56,11 @@ th {
   border-collapse: collapse;
   text-align: center;
   font-weight: normal;
-  padding-top: 2px;
-  padding-down: 2px;
 }
 
 @media only screen and (max-width: 600px) {
   .right {
-    width: 95%;
+    width: 100%;
   }
 }
 
