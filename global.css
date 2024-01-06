@@ -69,6 +69,12 @@ th {
   body {
   font-size: 10px;
   }
+  h1 {
+  font-size: 13px;
+  }
+  h3 {
+  font-size: 20px;
+  }
   .right {
     width: 95%;
   }
