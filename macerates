@@ -1,1 +1,853 @@
-a
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <title>Maceratese</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Grammatica del dialetto maceratese">
+    <meta name="keywords" content="dialetto maceratese, dialetto Macerata, dialetto marchigiano, dialetti marchigiani, grammatica marchigiana, grammatica maceratese">
+    <link rel="stylesheet" href="global.css">
+  </head>
+
+  <body>
+    <div class="navbar">
+      <a href="index.html">Pagina principale</a>
+    </div>
+    <div class="right">
+      <h3 style="text-align:center">Grammatica maceratese</h3>
+      <p>Il maceratese (<i>mageratese</i>) è un dialetto italoromanzo mediano parlato nelle Marche meridionali.</p>
+
+      <a href=#1>1. Fonologia e grafia</a><br />
+      <a href=#2>2. Metafonesi</a><br />
+      <a href=#3>3. Genere neutro</a><br />
+      <a href=#4>4. Flessione nominale</a><br />
+      <a href=#5>5. Articoli</a><br />
+      <a href=#6>6. Preposizioni</a><br />
+      <a href=#7>7. Dimostrativi</a><br />
+      <a href=#8>8. Possessivi</a><br />
+      <a href=#9>9. Pronomi personali</a><br />
+      <a href=#10>10. Epitesi in <i>-ne</i></a><br />
+      <a href=#11>11. Verbi regolari</a><br />
+      <a href=#12>12. Verbi irregolari</a><br />
+
+      <h1 id="1">1) Grafia e pronuncia</h1>
+
+      <p>La seguente tabella riporta su ognuna delle colonne il grafema utilizzato, il fonema corrispondente e un esempio di parola con il suono. I suoni sono indicati con l’Alfabeto Fonetico Internazionale. Seguono tutte le precisazioni ed esplicazioni necessarie, con alcune note di fonologia storica.</p>
+
+      <table>
+        <tr>
+          </td><th>grafema</th><th>fonema</th><th>esempio</th>
+        </tr>
+        <tr>
+          <td>a</td>
+          <td>/a/</td>
+          <td><i>anno</i> [ˈanːo]</td>
+        </tr>
+        <tr>
+          <td>b</td>
+          <td>/b/</td>
+          <td><i>bono</i> [ˈbːɔːno]</td>
+        </tr>
+        <tr>
+          <td>ci + a/o/u<br />c + e i</td>
+          <td>/t͡ʃ/ [ʃ]</td>
+          <td><i>cerasa</i> [t͡ʃeˈraːsa]</td>
+        </tr>
+        <tr>
+          <td>c + a/o/u<br />ch + e i</td>
+          <td rowspan="2">/k/</td>
+          <td><i>cane</i> [ˈkaːne]</td>
+        </tr>
+        <tr>
+          <td>q</td>
+          <td><i>quanno</i> [ˈkwanːo]</td>
+        </tr>
+        <tr>
+          <td>d</td>
+          <td>/d/</td>
+          <td><i>dorce</i> [ˈdort͡ʃe]</td>
+        </tr>
+        <tr>
+          <td rowspan="2">e</td>
+          <td>/ɛ/</td>
+          <td><i>erba</i> [ˈɛrba]</td>
+        </tr>
+        <tr>
+          <td>/e/</td>
+          <td><i>entro</i> [ˈentro]</td>
+        </tr>
+        <tr>
+          <td>f</td>
+          <td>/f/</td>
+          <td><i>farzo</i> [ˈfart͡so]</td>
+        </tr>
+        <tr>
+          <td>gi + a/o/u<br />g + e i</td>
+          <td>/d͡ʒ/</td>
+          <td><i>gijo</i> [ˈd͡ʒːiʝːo]</td>
+        </tr>
+        <tr>
+          <td>g + a/o/u<br />gh + e i</td>
+          <td>/g/</td>
+          <td><i>granne</i> [ˈgranːe]</td>
+        </tr>
+        <tr>
+          <td>gn</td>
+          <td>/ɲ/</td>
+          <td><i>gnente</i> [ˈɲːɛnte]</td>
+        </tr>
+        <tr>
+          <td>i</td>
+          <td>/i/</td>
+          <td><i>isola</i> [ˈiːsola]</td>
+        </tr>
+        <tr>
+          <td>j</td>
+          <td>/j/</td>
+          <td><i>jotto</i> [ˈʝːotːo]</td>
+        </tr>
+        <tr>
+          <td>l</td>
+          <td>/l/</td>
+          <td><i>lingua</i> [ˈliŋgwa]</td>
+        </tr>
+        <tr>
+          <td>m</td>
+          <td>/m/</td>
+          <td><i>mano</i> [ˈmaːno]</td>
+        </tr>
+        <tr>
+          <td>n</td>
+          <td>/n/ [ɱ, ŋ]</td>
+          <td><i>notte</i> [ˈnɔtːe]</td>
+        </tr>
+        <tr>
+          <td rowspan="2">o</td>
+          <td>/ɔ/</td>
+          <td><i>otto</i> [ˈɔtːo]</td>
+        </tr>
+        <tr>
+          <td>/o/</td>
+          <td><i>ora</i> [ˈoːra]</td>
+        </tr>
+        <tr>
+          <td>p</td>
+          <td>/p/</td>
+          <td><i>pica</i> [ˈpiːka]</td>
+        </tr>
+        <tr>
+          <td>r</td>
+          <td>/r/</td>
+          <td><i>robba</i> [ˈrɔbːa]</td>
+        </tr>
+        <tr>
+          <td>s</td>
+          <td>/s/ [z, t͡s]</td>
+          <td><i>storzà</i> [storˈt͡sa]</td>
+        </tr>
+        <tr>
+          <td>sc + e i</td>
+          <td>/ʃ/</td>
+          <td><i>sciacquà</i> [ʃːaˈkːwa]</td>
+        </tr>
+        <tr>
+          <td>t</td>
+          <td>/t/</td>
+          <td><i>tonno</i> [ˈtonːo]</td>
+        </tr>
+        <tr>
+          <td>u</td>
+          <td>/u/</td>
+          <td><i>uva</i> [ˈuːva]</td>
+        </tr>
+        <tr>
+          <td>v</td>
+          <td>/v/</td>
+          <td><i>vino</i> [ˈviːno]</td>
+        </tr>
+        <tr>
+          <td rowspan="2">z</td>
+          <td>/t͡s/</td>
+          <td><i>zompo</i> [ˈt͡sːompo]</td>
+        </tr>
+        <tr>
+          <td>/d͡z/</td>
+          <td><i>zeta</i> [ˈd͡zːɛːta]</td>
+        </tr>
+      </table>
+
+      <p>‹j› rappresenta un fonema palatale, oscillante tra approssimante e fricativo, come in <i>fijo</i> ]ˈfiʝːo]. Nella pronuncia molto spesso è raddoppiato.</p>
+      <p>Le differenze nella fonologia e fonetica tra romanesco e italiano standard si esauriscono in fretta, e consistono in alcuni fenomeni innovativi comuni con molti altri dialetti mediani, toscani e meridionali:</p>
+      <ul>
+      <li>/ʎ/ > /ʝ/, il primo attestato già nel 1700 (<i>sbaglio > sbajo</i>).</li>
+      <li>/nd/ > /nn/ (<i>quanno</i>), /mb/ > /mm/ (<i>bomma</i>), talora anche /ld/ > /ll/ (<i>callo</i>).</li>
+      <li>/s/ > /ts/ dopo /l n r/, come in <i>arzà, penzà, monzignore, orzo</i>, e ciò anche in sintassi: <i>er sole, un sasso</i> [er ˈt͡soːle, un ˈt͡sasːo].</li>
+      <li>/l/ > /r/ a contatto con altre consonanti: <i>arto, dorce, carza, cremente</i>, fenomeno che ha colpito anche l’articolo <i>el</i>, oggi pronunciato <i>er</i>.</li>
+      <li>Alla fine del 1800 è entrato nel romano cittadino il tratto ciociaro dello scempiamento incondizionato di /r/, che oggi non può essere doppio, neanche per raddoppiamento fonosintattico o tra due parole: <i>car(r)o, a Roma, er re</i> [ˈkaːro, a ˈroːma, e ˈre].</li>
+      <li>Il dittongo /wɔ/ è del tutto assente. Il dittongo /jɛ/ manca in certe parole come <i>mèle, fèle</i> (miele, fiele), in altre è stato importato, per influenza toscana, ed anzi nel dialetto antico era espanso oltre la norma italiana, come in <i>viengo</i> o l’infinito <i>vienì</i> (da <i>viene, vieni</i>). I romani però spesso non dicono [jɛ] come in Toscana, bensì usano la pronuncia meridionale [je] (che, quantomeno oggi, è comunissima).</li>
+      <li>/s/ tra vocali è sempre sordo (non ci sono parole con /z/ sonoro come in Toscana).</li>
+      <li>/b, d͡ʒ/ sono geminati dopo una vocale o ad inizio di frase: <i>bello, giallo</i> [ˈbːɛlːo, ˈd͡ʒːalːo].</li>
+      <li>/t͡ʃ/ (la “C dolce”) tra vocali si deaffrica in [ʃ], come nei dialetti toscani: <i>pace, coce</i> [ˈpaːʃe, ˈkɔːʃe]. Ciò però non quando è ad inizio di frase o raddoppiato: <i>cena, la cena, a cena</i> [ˈt͡ʃeːna, la ˈʃeːna, a ˈt͡ʃːeːna].</li>
+      </ul>
+
+      <h1 id="2">2) Flessione nominale</h1>
+
+      <p>La principale differenza con l’italiano è che i variabili femminili in <i>-e</i> hanno il plurale anch’esso in <i>-e</i>, dunque <i>la croce</i> volge al plurale in <i>le croce</i>, <i>l’arte > l’arte</i>, <i>la mannola dorce > le mannole dorce</i>, <i>l’amante > l’amante</i>.</p>
+      <p>Un gruppo nutrito di nomi, sia maschili che femminili, al plurale fa in <i>-a</i> (ed è femminile anche per i maschili): <i>er braccio > le braccia, la mela > le mela</i>.</p>
+      <table>
+        <tr>
+          <td class="empty"><th>singolare</th><th colspan="2">plurale</th>
+        </tr>
+        <tr>
+          <th rowspan="2">maschile</th><td><i>fij - o<br />ov - o</i></td><td rowspan="2"><i>fij - i<br /><br />pont - i</i></td><td rowspan="2"><i>ov - a</i></td>
+        </tr>
+        <tr>
+          <td><i>pont - e</i></td>
+        </tr>
+        <tr>
+          <th rowspan="2">femminile</th><td><i>fij - a<br />mel - a</i></td><td rowspan="2"><i>fij - e<br /><br />nott - e</i></td><td rowspan="2"><i>mel - a</i></td>
+        </tr>
+        <tr>
+          <td><i>nott - e</i></td>
+        </tr>
+      </table>
+      <p>Alcuni maschili in <i>-co</i> oscillano al plurale tra <i>-chi</i> (<i>l’amichi, li medichi</i>) e la forma italianeggiante <i>-ci</i> (<i>l’amici, li medici</i>).</p>
+      <p>Per formare il vocativo, si tronca il sostantivo sull’ultima vocale accentata: <i>Maria, Giuseppe, Cosimo, dottore > Mari’, Giuse’, Co’, dotto’</i>. Anche questo è un uso meridionale entrato nel linguaggio romano solo nel 1900.</p>
+
+      <h1 id="3">3) Articoli</h1>
+      <h1>Articoli determinativi</h1>
+        <p>L’articolo maschile singolare è l’unico che ha tre forme: la forma forte <i>lo</i> precede /j, ɲ, ʃ, t͡s, d͡z/ ‹j, gn, sc, z, z› o /s/ ‹s› + consonante, mentre la forma debole <i>er</i> precede tutte le altre consonanti: <i>lo jotto, lo gnocco, lo sciorno, lo zompo, lo zero, lo sposo</i>, ma <i>er foco, er palazzo, er matto, er loco</i>. Prima di vocale invece si usa <i>l’</i>: <i>l’antro, l’ucello</i>. <i>L’</i> è in generale l’unico articolo tollerato per i nomi in vocale: <i>l’ucello, l’ucelli, l’anima, l’anime</i>.
+        <p>Talora in realtà <i>er</i>, in particolare nel dialetto antico, viene usato anche prima di /s/ complicato o prima di /t͡s, d͡z/ (<i>er spirito, er zero</i>). Nel romano contemporaneo sono molto diffuse le forme aferetiche <i>’o, ’i, ’a, ’e</i> per <i>lo, li, la, le</i>.</p>
+      <table>
+        <tr>
+          <td class="empty"></td><th>debole</th><th>forte</th><th>prima di vocale</th>
+        </tr>
+        <tr>
+          <th>maschile singolare</th><td><i>er</i></td><td><i>lo</i></td><td rowspan="4"><i>l’</i></td>
+        </tr>
+        <tr>
+          <th>maschile plurale</th><td colspan="2"><i>li</i></td>
+        </tr>
+        <tr>
+          <th>femminile singolare</th><td colspan="2"><i>la</i></td>
+        </tr>
+        <tr>
+          <th>femminile plurale</th><td colspan="2"><i>le</i></td>
+        </tr>
+      </table>
+
+      <h1>Articoli indeterminativi</h1>
+      <table>
+        <tr>
+          <td class="empty"></td><th colspan="2">singolare</th>
+        </tr>
+        <tr>
+          <td class="empty"></td><th>debole</th><th>forte</th>
+        </tr>
+        <tr>
+          <th>maschile</th><td><i>un</i></td><td><i>uno (’no)</i></td>
+        </tr>
+        <tr>
+          <th>femminile</th><td colspan="2"><i>una (’na)</i></td>
+        </tr>
+      </table>
+      <p>L’articolo partitivo è assente, al suo posto si utilizzano costruzioni perifrastiche come <i>un po’ de...</i> o l’aggettivo <i>certo</i> (<i>ho visto cert’omini</i> “ho visto degli uomini”).</p>
+
+      <h1 id="4">4) Preposizioni</h1>
+      <p>Le preposizioni sono le stesse italiane: <i>de, a, da, in, con, su, per, tra, fra</i>; spesso <i>con, per</i> si abbreviano in <i>co, pe</i>.</p>
+      <p>Talora si fa utilizzo dell’accusativo preposizionale, cioè l’uso di <i>a</i> per marcare enfaticamente l’oggetto di un verbo, qualora animato: <i>ho visto a Marco, a té</i>.</p>
+      <h1>Preposizioni articolate</h1>
+      <p>La preposizione lega con l’articolo in due soli casi:</p>
+      <ul>
+        <li>Quando l’articolo è <i>er</i> (<i>ar fiume, der celo, cor cane</i>).</li>
+        <li>Quando l’articolo è <i>l’</i> prima di una parola con l’accento sulla prima sillaba*: <i>de l’orecchia, ne l’uscì, de l’antichi</i>, ma <i>pell’antro, dell’opera, nell’orto</i>.</li>
+      </ul>
+      <p>Altrimenti, è slegata: <i>a lo scuro, de lo spirito, su li tetti</i>.</p>
+      <table>
+        <tr>
+          <td class="empty"></td><th><i><i>er</th><th><i>l’*</th>
+        </tr>
+        <tr>
+          <th><i><i>de</i></th><td><i>der</td><td><i>dell’</i></td>
+        </tr>
+        <tr>
+          <th><i>a</i></th><td><i>ar</td><td><i>all’</td>
+        </tr>
+        <tr>
+          <th><i>da</i></th><td><i>dar</td><td><i>dall’</td>
+        </tr>
+        <tr>
+          <th><i>in</i></th><td><i>ner</td><td><i>nell’</td>
+        </tr>
+        <tr>
+          <th><i>con (co)</i></th><td><i>cor</td><td><i>coll’</td>
+        </tr>
+        <tr>
+          <th><i>su</i></th><td><i>sur</td><td><i>sull’</td>
+        </tr>
+        <tr>
+          <th><i>per (pe)</i></th><td><i>pe ’r</td><td><i>pell’</td>
+        </tr>
+        <tr>
+          <th><i>tra</th></i><td><i>tra ’r</td><td><i>tra l’</td>
+        </tr>
+        <tr>
+          <th><i>fra</i></th><td><i>fra ’r</td><td><i>fra l’</td>
+        </tr>
+      </table>
+      <p>Nel romano antico vi era l’uso abituale di rafforzare <i>ne, su</i> con <i>in</i> (come nelle frasi <i>in ne la chiesa, in ne la vigna, in sur tetto, in su ’n arbero, in sur calà</i>).</p>
+
+      <h1 id="5">5) Dimostrativi</h1>
+      <p>Il romanesco ha due dimostrativi, con lo stesso significato degli italiani, <i>questo</i> e <i>quello</i>.</p>
+      <h1><i>Questo</i></h1>
+      <p>Quando è un articolo si può abbreviare per aferesi della prima sillaba: <i>’sto loco, ’st’ajo, ’st’oca, ’st’antre</i>.</p>
+      <table>
+        <tr>
+          <td class="empty"></td><th colspan="2">singolare</th><th colspan="2">plurale</th>
+        </tr>
+        <tr>
+          <td class="empty"></td><th>prima di consonante</th><th>prima di vocale</th><th>prima di consonante</th><th>prima di vocale</th>
+        </tr>
+        <tr>
+          <th>maschile</th><td><i>questo</i></td><td><i>quest’</i></td><td><i>questi</i></td><td><i>quest’</i></td>
+        </tr>
+        <tr>
+          <th>femminile</th><td><i>questa</i></td><td><i>quest’</i></td><td><i>queste</i></td><td><i>quest’</i></td>
+        </tr>
+      </table>
+      <h1><i>Quello</i></h1>
+      <p><i>Quello</i> si comporta in modo molto simile all’articolo determinativo:</p>
+      <table>
+        <tr>
+          <td class="empty"></td><th>debole</th><th>forte</th><th>prima di vocale</th>
+        </tr>
+        <tr>
+          <th>maschile singolare</th><td><i>quer</i></td><td><i>quello</i></td><td rowspan="4"><i>quell’</i></td>
+        </tr>
+        <tr>
+          <th>maschile plurale</th><td colspan="2"><i>quelli</i></td>
+        </tr>
+        <tr>
+          <th>femminile singolare</th><td colspan="2"><i>quella</i></td>
+        </tr>
+        <tr>
+          <th>femminile plurale</th><td colspan="2"><i>quelle</i></td>
+        </tr>
+      </table>
+
+      <h1 id="6">6) Possessivi</h1>
+      <p>Solitamente il possessivo è troncato, se prima del nome: <i>mi’ madre, tu’ fratello, su’ sorella</i>. In genere se non si tratta di un nome di parentela l’aggettivo si pone dopo nel dialetto moderno: <i>ar paese mio, co li sordi sua</i>; nel dialetto del Belli la cosa era meno definita e spesso si trova anche preposto.</p>
+      <p>Come possessivi plurali ambigenere molto spesso si usano anche <i>mia, tua, sua</i>: <i>li libbri mia, l’amici tua, l’affari sua</i>.</p>
+      <table>
+        <tr>
+          <td class="empty"></td><th colspan="2">maschile</th><th colspan="2">femminile</th>
+        </tr>
+        <tr>
+          <td class="empty"></td><th>singolare</th><th>plurale</th><th>singolare</th><th>plurale</th>
+        </tr>
+        <tr>
+          <th>1<sup>a</sup> persona singolare</th><td><i>mio</td><td><i>mii</td><td><i>mia</td><td><i>mie</td>
+        </tr>
+        <tr>
+          <th>2<sup>a</sup> persona singolare</th><td><i>tuo</td><td><i>tui</td><td><i>tua</td><td><i>tue</td>
+        </tr>
+        <tr>
+          <th>3<sup>a</sup> persona singolare</th><td><i>suo</td><td><i>sui</td><td><i>sua</td><td><i>sue</td>
+        </tr>
+        <tr>
+          <th>1<sup>a</sup> persona plurale</th><td><i>nostro</td><td><i>nostri</td><td><i>nostra</td><td><i>nostre</td>
+        </tr>
+        <tr>
+          <th>2<sup>a</sup> persona plurale</th><td><i>vostro</td><td><i>vostri</td><td><i>vostra</td><td><i>vostre</td>
+        </tr>
+        <tr>
+          <th>3<sup>a</sup> persona plurale</th><td><i>loro</td><td><i>loro</td><td><i>loro</td><td><i>loro</td>
+        </tr>
+      </table>
+
+      <h1 id="7">7) Pronomi personali</h1>
+      <p><i>Je</i> si usa per tutte le terze persone, indipendentemente anche dal genere: <i>je dico</i> può significare “gli dico”, “le dico” o “dico loro”.</p>
+      <p>Per il riflessivo di prima persona plurale si usa <i>se</i>: <i>se lavamo, noi se vedemo, noi se specchiamo, se volemo bene, se n’annamo</i> “ci laviamo, ci vediamo, ci specchiamo, ci vogliamo bene, ce ne andiamo”.</p>
+      <table>
+        <tr>
+          <td class="empty"></td><th>soggetto</th><th>oggetto</th><th>obliquo</th><th>termine</th><th>riflessivo</th>
+        </tr>
+        <tr>
+          <th>1<sup>a</sup> persona singolare</th><td><i>io</td><td><i>me</td><td><i>mé</td><td><i>me</td><td><i>me</td>
+        </tr>
+        <tr>
+          <th>2<sup>a</sup> persona singolare</th><td><i>tu</td><td><i>te</td><td><i>té</td><td><i>te</td><td><i>te</td>
+        </tr>
+        <tr>
+          <th>3<sup>a</sup> persona singolare</th><td><i>lui (m.)<br />lei (f.)</td><td><i>lo (m.)<br />la (f.)</td><td><i>lui (m.)<br />lei (f.)</td><td><i>je</td><td><i>se</td>
+        </tr>
+        <tr>
+          <th>1<sup>a</sup> persona plurale</th><td><i>noi</td><td><i>ce</td><td><i>noi</td><td><i>ce</td><td><i>se</td>
+        </tr>
+        <tr>
+          <th>2<sup>a</sup> persona plurale</th><td><i>voi</td><td><i>ve</td><td><i>voi</td><td><i>ve</td><td><i>ve</td>
+        </tr>
+        <tr>
+          <th>3<sup>a</sup> persona plurale</th><td><i>loro</td><td><i>li (m.)<br />le (f.)</td><td><i>loro</td><td><i>je</td><td><i>se</td>
+        </tr>
+      </table>
+      <p>Come forme rafforzate sono presenti anche <i>noantri, voantri</i> (noialtri, voialtri).</p>
+
+      <h1 id="8">8) Epitesi in <i>-ne</i></h1>
+      <p>La particella <i>-ne</i> si può aggiungere a qualsiasi parola tronca con valore puramente ritmico: <i>no > none, tu > tune, magnà > magnane</i> etc.</p>
+
+      <h1 id="9">9) Verbi regolari</h1>
+      <p>Segue la coniugazione dei tre verbi regolari <i>amà, venne, sentì</i> in tutti i tempi semplici. Le desinenze hanno l’accento grafico solamente quando portano rizoatonia al verbo (ovvero spostano l’accento dalla radice).</p>
+
+      <h1>Indicativo presente</h1>
+      <table>
+        <tr>
+          <td width="10%" class="empty"></td><th>I</th><th>II</th><th>III</th>
+        </tr>
+        <tr>
+          <th><i>io</i></th><td><i>am - o</i></td><td><i>venn - o</i></td><td><i>sent - o</i></td>
+        </tr>
+        <tr>
+          <th><i>tu</i></th><td><i>am - i</i></td><td><i>venn - i</i></td><td><i>sent - i</i></td>
+        </tr>
+        <tr>
+          <th><i>lui</i></th><td><i>am - a</i></td><td><i>venn - e</i></td><td><i>sent - e</i></td>
+        </tr>
+        <tr>
+          <th><i>noi</i></th><td><i>am - àmo</i></td><td><i>venn - émo</i></td><td><i>sent - ìmo</i></td>
+        </tr>
+        <tr>
+          <th><i>voi</i></th><td><i>am - àte</i></td><td><i>venn - éte</i></td><td><i>sent - ìte</i></td>
+        </tr>
+        <tr>
+          <th><i>loro</i></th><td><i>am - eno</i></td><td><i>venn - eno</i></td><td><i>sent - eno</i></td>
+        </tr>
+      </table>
+
+      <h1>Indicativo imperfetto</h1>
+      <table>
+        <tr>
+          <td width="10%" class="empty"></td><th>I</th><th>II</th><th>III</th>
+        </tr>
+        <tr>
+          <th><i>io</i></th><td><i>am - àvo</i></td><td><i>venn - évo</i></td><td><i>sent - ìvo</i></td>
+        </tr>
+        <tr>
+          <th><i>tu</i></th><td><i>am - àvi</i></td><td><i>venn - évi</i></td><td><i>sent - ìvi</i></td>
+        </tr>
+        <tr>
+          <th><i>lui</i></th><td><i>am - àva</i></td><td><i>venn - éva</i></td><td><i>sent - ìva</i></td>
+        </tr>
+        <tr>
+          <th><i>noi</i></th><td><i>am - àmio</i></td><td><i>venn - émio</i></td><td><i>sent - ìmio</i></td>
+        </tr>
+        <tr>
+          <th><i>voi</i></th><td><i>am - àvio</i></td><td><i>venn - évio</i></td><td><i>sent - ìvio</i></td>
+        </tr>
+        <tr>
+          <th><i>loro</i></th><td><i>am - àveno</i></td><td><i>venn - éveno</i></td><td><i>sent - ìveno</i></td>
+        </tr>
+      </table>
+
+      <h1>Indicativo passato remoto</h1>
+      <table>
+        <tr>
+          <td width="10%" class="empty"></td><th>I</th><th>II</th><th>III</th>
+        </tr>
+        <tr>
+          <th><i>io</i></th><td><i>am - ài</i></td><td><i>venn - éi</i></td><td><i>sent - ìi</i></td>
+        </tr>
+        <tr>
+          <th><i>tu</i></th><td><i>am - àssi</i></td><td><i>venn - éssi</i></td><td><i>sent - ìssi</i></td>
+        </tr>
+        <tr>
+          <th><i>lui</i></th><td><i>am - ò</i></td><td><i>venn - étte</i></td><td><i>sent - ì</i></td>
+        </tr>
+        <tr>
+          <th><i>noi</i></th><td><i>am - àssimo</i></td><td><i>venn - éssimo</i></td><td><i>sent - ìssimo</i></td>
+        </tr>
+        <tr>
+          <th><i>voi</i></th><td><i>am - àssivo</i></td><td><i>venn - éssivo</i></td><td><i>sent - ìssivo</i></td>
+        </tr>
+        <tr>
+          <th><i>loro</i></th><td><i>am - òrno</i></td><td><i>venn - érno</i></td><td><i>sent - ìrno</i></td>
+        </tr>
+      </table>
+
+      <p>Nel caso di verbi col passato remoto forte (tra quelli particolarmente diversi dall’italiano standard sono  <i>volé > vòrze, vedé > védde, métte > mésse, créde > crése</i>):</p>
+
+      <table>
+        <tr>
+          <td width="10%" class="empty"></td><th>I - II - III</th>
+        </tr>
+        <tr>
+          <th><i>io</i></th><td><i>pianz - i</i><br />(oppure <i>pianz - e</i>, <i>ebb - e</i> ecc.)</td>
+        </tr>
+        <tr>
+          <th><i>lui</i></th><td><i>pianz - e</i></td>
+        </tr>
+        <tr>
+          <th><i>loro</i></th><td><i>pianz - eno</i></td>
+        </tr>
+      </table>
+
+      <h1>Indicativo futuro</h1>
+      <table>
+        <tr>
+          <td width="10%" class="empty"></td><th>I</th><th>II</th><th>III</th>
+        </tr>
+        <tr>
+          <th><i>io</i></th><td><i>am - erò</i></td><td><i>venn - erò</td><td><i>sent - irò</i></td>
+        </tr>
+        <tr>
+          <th><i>tu</i></th><td><i>am - erài</i></td><td><i>venn - erài</td><td><i>sent - irài</i></td>
+        </tr>
+        <tr>
+          <th><i>lui</i></th><td><i>am - erà</i></td><td><i>venn - erà</td><td><i>sent - irà</i></td>
+        </tr>
+        <tr>
+          <th><i>noi</i></th><td><i>am - erémo</i></td><td><i>venn - erémo</i></td><td><i>sent - irémo</i></td>
+        </tr>
+        <tr>
+          <th><i>voi</i></th><td><i>am - eréte</i></td><td><i>venn - eréte</i></td><td><i>sent - iréte</i></td>
+        </tr>
+        <tr>
+          <th><i>loro</i></th><td><i>am - erànno</i></td><td><i>venn - erànno</i></td><td><i>sent - irànno</i></td>
+        </tr>
+      </table>
+
+      <h1>Congiuntivo presente</h1>
+      <p>II e III oscillano tra le forme in <i>-a</i> e quelle in <i>-i</i>: <i>faccia = facci, possa = possi, sia = sii, abbia = abbi, curra = curri...</i>
+      <table>
+        <tr>
+          <td width="10%" class="empty"></td><th>I</th><th>II</th><th>III</th>
+        </tr>
+        <tr>
+          <th><i>io</i></th><td><i>am - i</i></td><td><i>venn - a</td><td><i>sent - a</i></td>
+        </tr>
+        <tr>
+          <th><i>tu</i></th><td><i>am - i</i></td><td><i>venn - a</td><td><i>sent - a</i></td>
+        </tr>
+        <tr>
+          <th><i>lui</i></th><td><i>am - i</i></td><td><i>venn - a</td><td><i>sent - a</i></td>
+        </tr>
+        <tr>
+          <th><i>noi</i></th><td><i>am - iàmo</i></td><td><i>venn - iàmo</i></td><td><i>sent - iàmo</i></td>
+        </tr>
+        <tr>
+          <th><i>voi</i></th><td><i>am - iàte</i></td><td><i>venn - iàte</i></td><td><i>sent - iàte</i></td>
+        </tr>
+        <tr>
+          <th><i>loro</i></th><td><i>am - ino</i></td><td><i>venn - ano</i></td><td><i>sent - ano</i></td>
+        </tr>
+      </table>
+
+      <h1>Congiuntivo imperfetto</h1>
+      <table>
+        <tr>
+          <td width="10%" class="empty"></td><th>I</th><th>II</th><th>III</th>
+        </tr>
+        <tr>
+          <th><i>io</i></th><td><i>am - àssi</i></td><td><i>venn - éssi</td><td><i>sent - ìssi</i></td>
+        </tr>
+        <tr>
+          <th><i>tu</i></th><td><i>am - àssi</i></td><td><i>venn - éssi</td><td><i>sent - ìssi</i></td>
+        </tr>
+        <tr>
+          <th><i>lui</i></th><td><i>am - àssi</i></td><td><i>venn - éssi</td><td><i>sent - ìssi</i></td>
+        </tr>
+        <tr>
+          <th><i>noi</i></th><td><i>am - àssimo</i></td><td><i>venn - éssimo</i></td><td><i>sent - ìssimo</i></td>
+        </tr>
+        <tr>
+          <th><i>voi</i></th><td><i>am - àssivo</i></td><td><i>venn - éssivo</i></td><td><i>sent - ìssivo</i></td>
+        </tr>
+        <tr>
+          <th><i>loro</i></th><td><i>am - àssino</i></td><td><i>venn - éssino</i></td><td><i>sent - ìssino</i></td>
+        </tr>
+      </table>
+
+      <h1>Condizionale presente</h1>
+      <table>
+        <tr>
+          <td width="10%" class="empty"></td><th>I</th><th>II</th><th>III</th>
+        </tr>
+        <tr>
+          <th><i>io</i></th><td><i>am - erìa<br />am - erébbe</i></td><td><i>venn - erìa<br />venn - erébbe</td><td><i>sent - irìa<br />sent - irébbe</i></td>
+        </tr>
+        <tr>
+          <th><i>tu</i></th><td><i>am - eréssi</i></td><td><i>venn - eréssi</i></td><td><i>sent - iréssi</i></td>
+        </tr>
+        <tr>
+          <th><i>lui</i></th><td><i>am - erìa<br />am - erébbe</i></td><td><i>venn - erìa<br />venn - erébbe</td><td><i>sent - irìa<br />sent - irébbe</i></td>
+        </tr>
+        <tr>
+          <th><i>noi</i></th><td><i>am - eréssimo</i></td><td><i>venn - eréssimo</i></td><td><i>sent - iréssimo</i></td>
+        </tr>
+        <tr>
+          <th><i>voi</i></th><td><i>am - eréssivo</i></td><td><i>venn - eréssivo</i></td><td><i>sent - iréssivo</i></td>
+        </tr>
+        <tr>
+          <th><i>loro</i></th><td><i>am - erébbeno<br />am - erìano</i></td><td><i>venn - erìano<br />venn - erébbeno</i></td><td><i>sent - irìano<br />sent - irébbeno</i></td>
+        </tr>
+      </table>
+
+      <h1>Imperativo presente</h1>
+      <table>
+        <tr>
+          <th>I</th><th>II</th><th>III</th><td width="10%" class="empty"></td>
+        </tr>
+        <tr>
+          <td><i>am - a</i></td><td><i>venn - e</i></td><td><i>sent - i (- e)</i></td><th><i>tu!</i></th>
+        </tr>
+        <tr>
+          <td><i>am - àte</i></td><td><i>venn - éte</i></td><td><i>sent - ìte</i></td><th><i>voi!</i></th>
+        </tr>
+      </table>
+
+      <h1>Infinito presente</h1>
+      <table>
+        <tr>
+          <th>I</th><th colspan="2">II</th><th>III</th>
+        </tr>
+        <tr>
+          <td><i>am - à</i></td><td><i>venn - e</i></td><td><i>sap - é</i></td><td><i>sent - ì</i></td>
+        </tr>
+      </table>
+
+      <h1>Gerundio presente</h1>
+      <p>Il gerundio ha lo stesso valore che ha in italiano, ma ha un uso ridotto poiché alla costruzione italiana stare + (gerundio) corrisponde <i>stà a</i> + (infinito); ad esempio “sto mangiando” si traduce <i>sto a magnà</i>, “stavo mangiando” <i>stavo a magnà</i>, “starò mangiando” <i>starò a magnà</i>.</p>
+      <table>
+        <tr>
+          <th>I</th><th>II</th><th>III</th>
+        </tr>
+        <tr>
+          <td><i>am - ànno</i></td><td><i>venn - ènno</i></td><td><i>sent - ènno</i></td>
+        </tr>
+      </table>
+
+      <h1>Participio presente</h1>
+      <p>Alcuni participi passati diversi dallo standard moderno sono <i>volé > vorzùto, créde > créso, dì > dìtto, trovà > tròvo, toccà > tòcco</i> (quelli di questo ultimo tipo erano molto diffusi nel romano ottocentesco).</p>
+      <table>
+        <tr>
+          <td class="empty"></td><th colspan="3">singolare</th><th colspan="3">plurale</th>
+        </tr>
+        <tr>
+          <td class="empty"></td><th>I</th><th>II</th><th>III</th><th>I</th><th>II</th><th>III</th>
+        </tr>
+        <tr>
+          <th>maschile</th><td><i>am - ànte</i></td><td><i>venn - ènte</i></td><td><i>sent - ènte</i></td><td><i>am - ànti</i></td><td><i>venn - ènti</i></td><td><i>sent - ènti</i></td>
+        </tr>
+        <tr>
+          <th>femminile</th><td><i>am - ànte</i></td><td><i>venn - ènte</i></td><td><i>sent - ènte</i></td><td><i>am - ànte</i></td><td><i>venn - ènte</i></td><td><i>sent - ènte</i></td>
+        </tr>
+      </table>
+
+      <h1>Participio passato</h1>
+      <table>
+        <tr>
+          <td class="empty"></td><th colspan="3">singolare</th><th colspan="3">plurale</th>
+        </tr>
+        <tr>
+          <td class="empty"></td><th>I</th><th>II</th><th>III</th><th>I</th><th>II</th><th>III</th>
+        </tr>
+        <tr>
+          <th>maschile</th><td><i>am - àto</i></td><td><i>venn - ùto</i></td><td><i>sent - ìto</i></td><td><i>am - àti</i></td><td><i>venn - ùti</i></td><td><i>sent - ìti</i></td>
+        </tr>
+        <tr>
+          <th>femminile</th><td><i>am - àta</i></td><td><i>venn - ùta</i></td><td><i>sent - ìta</i></td><td><i>am - àte</i></td><td><i>venn - ùte</i></td><td><i>sent - ìte</i></td>
+        </tr>
+      </table>
+
+      <h1 id="10">10) Verbi irregolari</h1>
+      <h1><i>Esse</i></h1>
+      <table>
+        <tr>
+          <td width="10%" class="empty"></td><th colspan="4">indicativo</th>
+        </tr>
+        <tr>
+          <td class="empty"></td><th>presente</th><th>imperfetto</th><th>p. remoto</th><th>futuro</th>
+        </tr>
+        <tr>
+          <th><i>io</i></th><td><i>sò</i></td><td><i>èro</i></td><td><i>fùi</i></td><td><i>sarò</i></td>
+        </tr>
+        <tr>
+          <th><i>tu</i></th><td><i>sèi</i></td><td><i>èri</i></td><td><i>fùssi</i></td><td><i>sarài</i></td>
+        </tr>
+        <tr>
+          <th><i>lui</i></th><td><i>è</i></td><td><i>èra</i></td><td><i>fu</i></td><td><i>sarà</i></td>
+        </tr>
+        <tr>
+          <th><i>noi</i></th><td><i>sémo</i></td><td><i>èrimo</i></td><td><i>fùssimo</i></td><td><i>sarémo</i></td>
+        </tr>
+        <tr>
+          <th><i>voi</i></th><td><i>séte</i></td><td><i>èrivo</i></td><td><i>fùssivo</i></td><td><i>saréte</i></td>
+        </tr>
+        <tr>
+          <th><i>loro</i></th><td><i>sò</i></td><td><i>èreno</i></td><td><i>fùrno</i></td><td><i>sarànno</i></td>
+        </tr>
+        <tr>
+          <td class="empty"></td><th colspan="2">congiuntivo</th><th>condizionale</th><th>imperativo</th>
+        </tr>
+        <tr>
+          <td class="empty"></td><th>presente</th><th>imperfetto</th><th>presente</th><th>presente</th>
+        </tr>
+        <tr>
+          <th><i>io</i></th><td><i>sìa</i></td><td><i>fùssi</i></td><td><i>sarìa<br />sarébbe</i></td><td><i>-</i></td>
+        </tr>
+        <tr>
+          <th><i>tu</i></th><td><i>sìa</i></td><td><i>fùssi</i></td><td><i>saréssi</i></td><td><i>èssi</i></td>
+        </tr>
+        <tr>
+          <th><i>lui</i></th><td><i>sìa</i></td><td><i>fùssi</i></td><td><i>sarìa<br />sarébbe</i></td><td><i>-</i></td>
+        </tr>
+        <tr>
+          <th><i>noi</i></th><td><i>siàmo</i></td><td><i>fùssimo</i></td><td><i>saréssimo</i></td><td><i>-</i></td>
+        </tr>
+        <tr>
+          <th><i>voi</i></th><td><i>siàte</i></td><td><i>fùssivo</i></td><td><i>saréssivo</i></td><td><i>séte</i></td>
+        </tr>
+        <tr>
+          <th><i>loro</i></th><td><i>sìano</i></td><td><i>fùssino</i></td><td><i>sarìano<br />sarébbeno</i></td><td><i>-</i></td>
+        </tr>
+        <tr>
+          <td class="empty"></td><th>infinito</th><th>gerundio</th><th colspan="2">participio</th>
+        </tr>
+        <tr>
+          <td class="empty"></td><th>presente</th><th>presente</th><th>presente</th><th>passato</th>
+        </tr>
+        <tr>
+          <td class="empty"></td><td><i>èsse</i></td><td><i>essènno</i></td><td><i>essènte</i></td><td><i>stàto</i></td>
+        </tr>
+      </table>
+
+      <h1><i>Avé</i></h1>
+      <p>A causa dell’indebolimento di avere, utilizzato come verbo ausiliare o in senso figurato, il romanesco ha rafforzato l’utilizzo letterale con la particella <i>ce</i>. Ai tempi di Gioachino Belli, questo <i>ce</i> si utilizzava solo quando il verbo indicava letteralmente possesso: <i>avecce ’na casa, avecce sordi, avecce un fratello</i>, ma <i>ho vent’anni, avé er tempo, avé da annà, avé bisogno, voja, raggione, torto, avé la disgrazzia</i>. Oggi il <i>ce</i> è stato espanso in genere a tutti i casi in cui il verbo non è ausiliare. Si confrontino in napoletano e in castigliano <i>tener/tené</i> (contro il verbo avere) o in lombardo l’uso analogo di <i>ghe</i>.</p>
+      </ul>
+      <table>
+        <tr>
+          <td width="10%" class="empty"></td><th colspan="4">indicativo</th>
+        </tr>
+        <tr>
+          <td class="empty"></td><th>presente</th><th>imperfetto</th><th>p. remoto</th><th>futuro</th>
+        </tr>
+        <tr>
+          <th><i>io</i></th><td><i>hò</i></td><td><i>avévo</i></td><td><i>ébbi</i></td><td><i>averò</i></td>
+        </tr>
+        <tr>
+          <th><i>tu</i></th><td><i>hài</i></td><td><i>avévi</i></td><td><i>avéssi</i></td><td><i>averài</i></td>
+        </tr>
+        <tr>
+          <th><i>lui</i></th><td><i>ha</i></td><td><i>avéva</i></td><td><i>ébbe</i></td><td><i>averà</i></td>
+        </tr>
+        <tr>
+          <th><i>noi</i></th><td><i>avémo</i></td><td><i>avémio</i></td><td><i>avéssimo</i></td><td><i>averémo</i></td>
+        </tr>
+        <tr>
+          <th><i>voi</i></th><td><i>avéte</i></td><td><i>avévio</i></td><td><i>avéssivo</i></td><td><i>averéte</i></td>
+        </tr>
+        <tr>
+          <th><i>loro</i></th><td><i>hànno</i></td><td><i>avéveno</i></td><td><i>ébbeno</i></td><td><i>averànno</i></td>
+        </tr>
+        <tr>
+          <td class="empty"></td><th colspan="2">congiuntivo</th><th>condizionale</th><th>imperativo</th>
+        </tr>
+        <tr>
+          <td class="empty"></td><th>presente</th><th>imperfetto</th><th>presente</th><th>presente</th>
+        </tr>
+        <tr>
+          <th><i>io</i></th><td><i>àbbia</i></td><td><i>avéssi</i></td><td><i>averìa<br />averébbe</i></td><td><i>-</i></td>
+        </tr>
+        <tr>
+          <th><i>tu</i></th><td><i>àbbia</i></td><td><i>avéssi</i></td><td><i>averéssi</i></td><td><i>àbbi</i></td>
+        </tr>
+        <tr>
+          <th><i>lui</i></th><td><i>àbbia</i></td><td><i>avéssi</i></td><td><i>averìa<br />averébbe</i></td><td><i>-</i></td>
+        </tr>
+        <tr>
+          <th><i>noi</i></th><td><i>abbiàmo</i></td><td><i>avéssimo</i></td><td><i>averéssimo</i></td><td><i>-</i></td>
+        </tr>
+        <tr>
+          <th><i>voi</i></th><td><i>abbiàte</i></td><td><i>avéssivo</i></td><td><i>averéssivo</i></td><td><i>avéte</i></td>
+        </tr>
+        <tr>
+          <th><i>loro</i></th><td><i>àbbiano</i></td><td><i>avéssino</i></td><td><i>averìano<br />averébbeno</i></td><td><i>-</i></td>
+        </tr>
+        <tr>
+          <td class="empty"></td><th>infinito</th><th>gerundio</th><th colspan="2">participio</th>
+        </tr>
+        <tr>
+          <td class="empty"></td><th>presente</th><th>presente</th><th>presente</th><th>passato</th>
+        </tr>
+        <tr>
+          <td class="empty"></td><td><i>avé</i></td><td><i>avènno</i></td><td><i>avènte</i></td><td><i>avùto</i></td>
+        </tr>
+      </table>
+
+      <h1><i>Esse</i></h1>
+      <table>
+        <tr>
+          <td width="10%" class="empty"></td><th colspan="4">indicativo</th>
+        </tr>
+        <tr>
+          <td class="empty"></td><th>presente</th><th>imperfetto</th><th>p. remoto</th><th>futuro</th>
+        </tr>
+        <tr>
+          <th><i>io</i></th><td><i>vàdo, vò</i></td><td><i>annàvo</i></td><td><i>annài<br />agnèdi</i></td><td><i>annerò</i></td>
+        </tr>
+        <tr>
+          <th><i>tu</i></th><td><i>vài</i></td><td><i>annàvi</i></td><td><i>annàssi</i></td><td><i>annerài</i></td>
+        </tr>
+        <tr>
+          <th><i>lui</i></th><td><i>va</i></td><td><i>annàva</i></td><td><i>annò<br />agnède</i></td><td><i>annerà</i></td>
+        </tr>
+        <tr>
+          <th><i>noi</i></th><td><i>annàmo</i></td><td><i>annàmio</i></td><td><i>annàssimo</i></td><td><i>annerémo</i></td>
+        </tr>
+        <tr>
+          <th><i>voi</i></th><td><i>annàte</i></td><td><i>annàvio</i></td><td><i>annàssivo</i></td><td><i>anneréte</i></td>
+        </tr>
+        <tr>
+          <th><i>loro</i></th><td><i>vànno</i></td><td><i>annàveno</i></td><td><i>annòrno<br />agnèdeno</i></td><td><i>annerànno</i></td>
+        </tr>
+        <tr>
+          <td class="empty"></td><th colspan="2">congiuntivo</th><th>condizionale</th><th>imperativo</th>
+        </tr>
+        <tr>
+          <td class="empty"></td><th>presente</th><th>imperfetto</th><th>presente</th><th>presente</th>
+        </tr>
+        <tr>
+          <th><i>io</i></th><td><i>vàda</i></td><td><i>annàssi</i></td><td><i>annerìa<br />annerébbe</i></td><td><i>-</i></td>
+        </tr>
+        <tr>
+          <th><i>tu</i></th><td><i>vàda</i></td><td><i>annàssi</i></td><td><i>anneréssi</i></td><td><i>vài</i></td>
+        </tr>
+        <tr>
+          <th><i>lui</i></th><td><i>vàda</i></td><td><i>annàssi</i></td><td><i>annerìa<br />annerébbe</i></td><td><i>-</i></td>
+        </tr>
+        <tr>
+          <th><i>noi</i></th><td><i>anniàmo</i></td><td><i>annàssimo</i></td><td><i>anneréssimo</i></td><td><i>-</i></td>
+        </tr>
+        <tr>
+          <th><i>voi</i></th><td><i>anniàte</i></td><td><i>annàssivo</i></td><td><i>anneréssivo</i></td><td><i>annàte</i></td>
+        </tr>
+        <tr>
+          <th><i>loro</i></th><td><i>vàdano</i></td><td><i>annàssino</i></td><td><i>annerìano<br />annerébbeno</i></td><td><i>-</i></td>
+        </tr>
+        <tr>
+          <td class="empty"></td><th>infinito</th><th>gerundio</th><th colspan="2">participio</th>
+        </tr>
+        <tr>
+          <td class="empty"></td><th>presente</th><th>presente</th><th>presente</th><th>passato</th>
+        </tr>
+        <tr>
+          <td class="empty"></td><td><i>annà</i></td><td><i>annànno</i></td><td><i>annànte</i></td><td><i>annàto</i></td>
+        </tr>
+      </table>
+
+      <h1>Altri</h1>
+      <p><i>Volé</i>: indicativo presente <i>io vòjo, tu vòi, lui vòle, noi volémo, voi voléte, loro vònno</i>, congiuntivo presente <i>io vòja (-i), tu vòja (-i), lui vòja (-i), noi vojàmo, voi vojàte, loro vòjano (-ino)</i>.</p>
+      <p><i>Poté</i>: <i>io pòzzo/pòsso, tu pòi, lui pò, noi potémo, voi potéte, loro pònno</i>, congiuntivo presente <i>io pòzza/pòssa (-i), tu pòzza/pòssa (-i), lui pòzza/pòssa (-i), noi pozzàmo/possiàmo, voi pozzàte/possiàte, loro pòzzano/pòssano (-ino)</i>.</p>
+    </div>
+  </body>
+</html>
